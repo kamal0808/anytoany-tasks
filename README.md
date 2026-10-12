@@ -5,7 +5,7 @@ anytoany's public project repo: tasks and the Neki ledger for [anytoany](https:/
 - [Issues](https://github.com/kamal0808/anytoany-tasks/issues): open tasks. Each issue is one task, and its `neki:N` label is the Neki it earns (1 Neki = 1 rupee of work at market price).
 - [`LEDGER.md`](LEDGER.md): who has earned what. Your share of anytoany = your Neki / all Neki there.
 
-The code is in a separate private repo.
+Code: [kamal0808/anytoany](https://github.com/kamal0808/anytoany) (the converter at anytoany.ai, and the `any` CLI in `any/`). Private for now: you get access when you join the project.
 
 ## How it works
 
